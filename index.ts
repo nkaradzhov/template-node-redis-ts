@@ -1,5 +1,5 @@
-import { GenericContainer, Wait } from 'testcontainers';
-import { createClient } from 'redis-local';
+import { GenericContainer } from 'testcontainers';
+import { createClient } from 'redis';
 
 const container = await new GenericContainer('redis')
   .withExposedPorts(6379)
