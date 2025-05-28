@@ -12,7 +12,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "redis": "^5.1.0",
+    "redis": "^5.1.1",
     "redis4": "npm:redis@^4.7.0",
     "redis-local": "file:/Users/nikolay.karadzhov/Projects/node-redis/packages/redis",
     "testcontainers": "^10.26.0",
