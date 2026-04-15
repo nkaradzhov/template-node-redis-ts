@@ -13,7 +13,7 @@
   "description": "",
   "dependencies": {
     "redis": "latest",
-    "redis-local": "file:/Users/nikolay.karadzhov/Projects/node-redis/packages/redis",
+    "redis-local": "file:/Users/nikolay.karadzhov/Projects/clients/node-redis/node-redis-master/packages/redis",
     "redis4": "npm:redis@^4.7.0",
     "testcontainers": "^10.26.0",
     "typescript": "^5.9.3"
